@@ -1,0 +1,23 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/hakaddou/Desktop/re_sub_push_swap/push_swap_bonus'
+gcc -g3 -Wall -Wextra -Werror   -c -o get_next_line.o get_next_line.c
+gcc -g3 -Wall -Wextra -Werror   -c -o get_next_line_utils.o get_next_line_utils.c
+gcc -g3 -Wall -Wextra -Werror   -c -o push_swap_bonus.o push_swap_bonus.c
+gcc -g3 -Wall -Wextra -Werror   -c -o add_new.o add_new.c
+gcc -g3 -Wall -Wextra -Werror   -c -o checkers.o checkers.c
+gcc -g3 -Wall -Wextra -Werror   -c -o ops.o ops.c
+gcc -g3 -Wall -Wextra -Werror   -c -o seperate.o seperate.c
+gcc -g3 -Wall -Wextra -Werror   -c -o a_operations.o a_operations.c
+gcc -g3 -Wall -Wextra -Werror   -c -o b_operations.o b_operations.c
+gcc -g3 -Wall -Wextra -Werror   -c -o assign.o assign.c
+gcc -g3 -Wall -Wextra -Werror   -c -o parse_operations.o parse_operations.c
+gcc -g3 -Wall -Wextra -Werror   -c -o parse_operations_v2.o parse_operations_v2.c
+gcc -g3 -Wall -Wextra -Werror   -c -o extras.o extras.c
+gcc -g3 -Wall -Wextra -Werror   -c -o sort_normally.o sort_normally.c
+gcc -g3 -Wall -Wextra -Werror   -c -o sort_4_chunks.o sort_4_chunks.c
+gcc -g3 -Wall -Wextra -Werror   -c -o chunk_extras.o chunk_extras.c
+gcc -g3 -Wall -Wextra -Werror   -c -o max_and_tops.o max_and_tops.c
+gcc -g3 -Wall -Wextra -Werror   -c -o long_limits.o long_limits.c
+gcc -g3 -o checker get_next_line.o get_next_line_utils.o push_swap_bonus.o add_new.o checkers.o ops.o seperate.o a_operations.o b_operations.o assign.o parse_operations.o parse_operations_v2.o extras.o sort_normally.o sort_4_chunks.o chunk_extras.o max_and_tops.o long_limits.o
+make: Leaving directory `/Users/hakaddou/Desktop/re_sub_push_swap/push_swap_bonus'
+ 
