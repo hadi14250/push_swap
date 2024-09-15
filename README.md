@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/hadi14250">
-    <img src="github_gifs/stack.gif" alt="stack gif" width="300" height="150">
+    <img src="github_gifs/stack.gif" alt="stack gif" width="150" height="150">
   </a>
   <h3 align="center">Push Swap</h3>
 Code Your Own Stack Sorting Algorithm
