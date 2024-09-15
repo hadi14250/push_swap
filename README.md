@@ -45,17 +45,17 @@ A stack-sorting project using two stacks, A and B, where A starts with random nu
 
 ## Stack Operations
 
-- `sa`: Swap the first two elements of stack A.
-- `sb:` Swap the first two elements of stack B.
-- ss: Perform sa and sb simultaneously.
-- pa: Push the top element from stack B to stack A.
-- pb: Push the top element from stack A to stack B.
-- ra: Rotate stack A upwards (first element becomes the last).
-- rb: Rotate stack B upwards.
-- rr: Rotate both stacks A and B upwards simultaneously.
-- rra: Reverse rotate stack A (last element becomes the first).
-- rrb: Reverse rotate stack B.
-- rrr: Reverse rotate both stacks A and B simultaneously.
+- `sa` Swap the first two elements of stack A.
+- `sb` Swap the first two elements of stack B.
+- `ss` Perform sa and sb simultaneously.
+- `pa` Push the top element from stack B to stack A.
+- `pb` Push the top element from stack A to stack B.
+- `ra` Rotate stack A upwards (first element becomes the last).
+- `rb` Rotate stack B upwards.
+- `rr` Rotate both stacks A and B upwards simultaneously.
+- `rra` Reverse rotate stack A (last element becomes the first).
+- `rrb` Reverse rotate stack B.
+- `rrr` Reverse rotate both stacks A and B simultaneously.
 
 
 <br>
