@@ -20,7 +20,7 @@ Code Your Own Stack Sorting Algorithm
 
 # Push Swap
 
-A stack-sorting project using two stacks, A and B, where A starts with random numbers, and B is initially empty. The goal is to sort the stack by performing and printing specific operations (e.g., sa, pb), which are then validated by a checker program.
+A stack-sorting program that uses two stacks, A and B, where A starts with unique random numbers, and B is initially empty. The goal is to sort the stack by performing and printing specific operations `(e.g., sa, pb)`, which are then validated by a checker program.
 
 ### Operations:
 
@@ -56,7 +56,6 @@ A stack-sorting project using two stacks, A and B, where A starts with random nu
 - `rra` Reverse rotate stack A (last element becomes the first).
 - `rrb` Reverse rotate stack B.
 - `rrr` Reverse rotate both stacks A and B simultaneously.
-
 
 <br>
 
