@@ -30,8 +30,6 @@ A stack-sorting program that uses two stacks, A and B, where A starts with uniqu
 
   - 📚 Sorting using two stacks.
   - 🔀 Limited set of operations (sa, pb, etc.).
-  - 🕹️ Optimized move sequences for sorting.
-  - ✅ Validation with a checker program.
   - 🧠 Efficiency in sorting with minimal operations.
 
 <br>
